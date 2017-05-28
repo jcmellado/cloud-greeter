@@ -13,5 +13,6 @@
     <module>modules/cloud-greeter-eureka</module>
     <module>modules/cloud-greeter-service</module>
     <module>modules/cloud-greeter-api</module>
+    <module>modules/cloud-greeter-turbine</module>
 	</modules>
 </project>

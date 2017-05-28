@@ -1,12 +1,12 @@
 
+server:
+  port: 8100
+
 spring:
   application:
     name: cloud-greeter-config
   profiles:
     active: native
-
-server:
-  port: 8100
 
 logging:
   file: logs/${spring.application.name}.log
