@@ -6,6 +6,7 @@
     <groupId>com.inmensia</groupId>
     <artifactId>cloud-greeter-parent</artifactId>
     <version>0.1.0-SNAPSHOT</version>
+    <relativePath>../cloud-greeter-parent</relativePath>
   </parent>
 
   <artifactId>cloud-greeter-turbine</artifactId>
